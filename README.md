@@ -2,13 +2,16 @@
 Ecole 42 Ağustos
 
 
-#Helpful resources I use#
+# Helpful resources I use #
 
-#Compiler*
+# Compiler #
 https://pythontutor.com/visualize.html
+
 https://www.onlinegdb.com/online_c_compiler
 
-#Pointer*
+#Pointer #
 https://www.youtube.com/watch?v=XISnO2YhnsY
+
 https://www.youtube.com/watch?v=zuegQmMdy8M
+
 https://www.cagataycebi.com/
