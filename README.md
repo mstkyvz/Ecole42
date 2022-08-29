@@ -9,7 +9,7 @@ https://pythontutor.com/visualize.html
 
 https://www.onlinegdb.com/online_c_compiler
 
-#Pointer #
+# Pointer #
 
 https://www.youtube.com/watch?v=XISnO2YhnsY
 
