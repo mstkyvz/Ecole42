@@ -1,6 +1,5 @@
 # Ecole42
-Ecole 42 Ağustos
-
+Ecole 42 August Pool Training
 
 # Skills #
 [![muyavuz's 42 stats](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/stats?cursusId=9&coalitionId=248)](https://github.com/JaeSeoKim/badge42)
