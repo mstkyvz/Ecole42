@@ -7,7 +7,7 @@ Ecole 42 Ağustos
 
 ## Individual Projects
 
-| ## | Name | Directory | Exercises
+| ## | Name | Directory | Exercises | Mark |
 |:----:|:-----------------------------------|:-------------:|:------------------:|:--------------:|
 |  00  |RUSH       | [Rush00/]          | [![muyavuz's 42 C Piscine Rush 00 Score](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2744243)](https://github.com/JaeSeoKim/badge42)
 |  00  |Shell00    | [Shell00/]         | [![muyavuz's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2737894)](https://github.com/JaeSeoKim/badge42)
