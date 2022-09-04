@@ -9,7 +9,7 @@ Ecole 42 Ağustos
 
 |  ##  |   Name    | Directory | Exercises   | Mark |
 |:----:|:-----------------------------------|:-------------:|:------------------:|:--------------:|
-|  00  |RUSH       | [Rush00/]      | [agaliste's 42 stats](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2744243)
+|  00  |RUSH       | [Rush00/]      | [![agaliste's 42 C Piscine Shell 00 Score (https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2744243)
 |  00  |Shell00    | [Shell00/]  | (https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2737894)
 |  01  |Shell01    | [Shell01/]   | (https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2756486)
 |  02  |C00        | [C00/]          | (https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2742764)
