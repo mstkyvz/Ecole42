@@ -3,7 +3,7 @@ Ecole 42 Ağustos
 
 
 # Skills #
-[![agaliste's 42 stats](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/stats?cursusId=9&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+[![agaliste's 42 stats](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/stats?cursusId=9&coalitionId=248)](https://github.com/JaeSeoKim/badge42)
 
 ## Individual Projects
 
