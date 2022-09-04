@@ -11,7 +11,7 @@ Ecole 42 Ağustos
 |:----:|:-----------------------------------|:-------------:|:------------------:|:--------------:|
 |  00  |RUSH       | [Rush00/]          | [![agaliste's 42 stats] (https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2744243)
 |  00  |Shell00    | [Shell00/]         | [![agaliste's 42 stats]  (https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2737894)
-|  01  |Shell01    | [Shell01/]         | ([![agaliste's 42 stats] (https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2756486)
+|  01  |Shell01    | [Shell01/]         | [![agaliste's 42 stats] (https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2756486)
 |  02  |C00        | [C00/]             | [![agaliste's 42 stats] (https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2742764)
 |  03  |C01        | [C01/]             | [![agaliste's 42 stats] (https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2750464)
 |  04  |C02        | [C02/]             | [![agaliste's 42 stats] (https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2763866)
