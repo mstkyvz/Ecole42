@@ -28,7 +28,7 @@ https://pythontutor.com/visualize.html
 
 https://www.onlinegdb.com/online_c_compiler
 
-https://www.grademe.fr/ Sınav simülatörü kendinizi deneyebilirsiniz
+https://www.grademe.fr/ exam simulator
 # Pointer #
 
 https://www.youtube.com/watch?v=XISnO2YhnsY
