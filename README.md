@@ -18,7 +18,7 @@ Ecole 42 August Pool Training
 |  06  |C04        | [C04/]             | [![muyavuz's 42 C Piscine C 04 Score](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2766536)](https://github.com/mstkyvz/Ecole42/tree/main/C04)
 |  07  |C05        | [C05/]             | [![muyavuz's 42 C Piscine C 05 Score](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2771610)](https://github.com/mstkyvz/Ecole42/tree/main/C05)
 |  08  |C06        | [C06/]             | [![muyavuz's 42 C Piscine C 06 Score](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2771611)](https://github.com/mstkyvz/Ecole42/tree/main/C06)
-|  09  |C07        | [C07/]             |
+|  09  |C07        | [C07/]             | [![muyavuz's 42 C Piscine C 07 Score](https://badge42.vercel.app/api/v2/cl7nelx3c00440gl9pb68ajk4/project/2776245)](https://github.com/mstkyvz/Ecole42/tree/main/C07)
 
 
 # Helpful resources I use #
